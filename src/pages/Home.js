@@ -12,7 +12,7 @@ export const Home = () => {
     { "id": 5, "name": "APPLE Airpods Max Bluetooth Headset", "price": 199, "image": "/assets/images/1005.png" },
     { "id": 6, "name": "ZEBRONICS Zeb-Thunder Wired", "price": 29, "image": "/assets/images/1006.png" }
   ];
-
+  
   return (
     <main>
       <section className="products">
@@ -21,5 +21,5 @@ export const Home = () => {
         )}
       </section>
     </main>
-  )
+  );
 }

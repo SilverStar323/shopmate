@@ -53,3 +53,11 @@ background-color: #ac0d14;
 .productCard .remove:hover{
 background-color: #8e090f;
 }
+
+.productCard .remove {
+  background-color: #ac0d14;
+}
+
+.productCard .remove:hover {
+  background-color: #8e090f;
+}
